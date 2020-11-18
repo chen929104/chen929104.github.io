@@ -1,0 +1,23 @@
+name: Brewski
+url: https://github.com/chen929104/chen929104.github.io
+
+menu:
+  Home: /
+  About: /about
+  Archives: /archives
+  GitHub: https://github.com/chen929104
+
+favicon: /favicon.svg
+logo: /logo.svg
+
+# Disqus shortname
+disqus:
+
+# Analytics
+google_analytics:
+
+# Copyright Infomation
+copyright:
+  since:
+  name:
+  url:
